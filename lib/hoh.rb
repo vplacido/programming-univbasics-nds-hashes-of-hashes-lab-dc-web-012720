@@ -56,7 +56,4 @@ def naming_system
        }
      }
    }
-  two = {
-    label: "Order"
-  }
 end
